@@ -1,0 +1,17 @@
+
+
+.table-pagination__range {
+    margin-right: 10px;
+}
+
+.table-pagination__button {
+    border: none;
+    background-color: #ffffff;
+    width: 40px;
+    height: 30px;
+    transition: background-color 0.2s;
+}
+
+.table-pagination__button:hover {
+    background-color: #f2f2f2;
+}

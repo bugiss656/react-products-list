@@ -1,0 +1,10 @@
+
+
+.alert-box {
+    width: 100%;
+    height: auto;
+    padding: 10px 15px;
+    background-color: #ffeecc;
+    font-weight: bold;
+    border-radius: 6px;
+}
